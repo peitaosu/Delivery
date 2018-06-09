@@ -1,3 +1,6 @@
 [submodule "index"]
 	path = index
 	url = https://github.com/peitaosu/Index_Down.git
+[submodule "map"]
+	path = map
+	url = https://github.com/peitaosu/Block_Update.git
