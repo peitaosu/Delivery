@@ -5,5 +5,5 @@
 	path = map
 	url = https://github.com/peitaosu/Block_Update.git
 [submodule "Reg_Hive"]
-	path = Reg_Hive
+	path = reg
 	url = https://github.com/peitaosu/Reg_Hive.git
