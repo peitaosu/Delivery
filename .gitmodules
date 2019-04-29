@@ -7,3 +7,6 @@
 [submodule "Reg_Hive"]
 	path = reg
 	url = https://github.com/peitaosu/Reg_Hive.git
+[submodule "devirtual"]
+	path = devirtual
+	url = https://github.com/peitaosu/Devirtual.git
